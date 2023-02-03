@@ -102,9 +102,9 @@ And the following:
 ASTRAKOBOT_IMG = "https://i.imgur.com/1oah5E2.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
+WandaBot is hosted on its own server and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of supporting him; [Telegram id](@Hamzavibes), or [Chann](@Hmxuodates)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
